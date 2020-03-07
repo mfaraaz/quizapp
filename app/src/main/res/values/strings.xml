@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">What is another name for Superman?</string>
+    <string name="q1OA">The Red Redeemer</string>
+    <string name="q1OB">The Masked Avenger</string>
+    <string name="q1OC">The Caped Crusader</string>
+    <string name="q1OD">The Man of Steel</string>
+    <string name="question2">What is Superman\'s only Weakness?</string>
+    <string name="q2OA">Samsontie</string>
+    <string name="q2OB">Cosmonite</string>
+    <string name="q2OC">Kryptonite</string>
+    <string name="q2OD">Plutonite</string>
+    <string name="question3">What is the name of Batman\'s secret identity?</string>
+    <string name="q3OA">Bruce Devon</string>
+    <string name="q3OB">Bruce Wayne</string>
+    <string name="q3OC">Bruce Davis</string>
+    <string name="q3OD">The Dark Knight</string>
+    <string name="question4">Batman protects what city?</string>
+    <string name="q4OA">Chicago</string>
+    <string name="q4OB">Metropolis</string>
+    <string name="q4OC">Gotham City</string>
+    <string name="q4OD">New York</string>
+</resources>
